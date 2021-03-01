@@ -1,0 +1,39 @@
+h1, h2, h3, h4, p, a, div, content, section, ul, li, form, input {
+	box-sizing: border-box;
+} 
+
+h1 {
+	color: red;	
+}
+
+.intro {
+    color: #fff;
+	background: #0000fe;
+	background: 2px solid #0000fe;
+	height: 75px;
+	width: 100px;
+}
+
+header span {
+	color: red;
+}
+
+h2 {
+	color: #fff;
+	padding: 3px;
+	background: #008001;
+	background: 2px solid #008001;
+}
+
+.section-tab h2  {
+	height: 120px;
+	padding: 45px;	
+}
+
+.section-tab p {
+	padding-left: 95px;
+}
+
+.list li {
+	border: 1px solid black;
+}
